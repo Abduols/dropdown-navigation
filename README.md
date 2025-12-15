@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](./src/assets/design%20preview/preview.PNG)
+![Preview](./src/assets/Design/preview.PNG)
 
 ### Links
 
