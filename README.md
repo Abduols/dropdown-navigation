@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview of the frontend challenge solution](preview.PNG)
+![Preview of the frontend challenge solution](preview.png)
 
 ### Links
 
